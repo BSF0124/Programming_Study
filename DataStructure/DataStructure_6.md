@@ -67,10 +67,10 @@ class Program
         Console.WriteLine("----------");
 
         // LinkedList 크기
-        Console.WriteLine("linkedList의 크기 : " + linkedList.Count);
+        Console.WriteLine($"linkedList의 크기 : {linkedList.Count}");
 
         // LinkedList 내부의 특정 값 존재 여부
-        Console.WriteLine("value 4 값 존재 여부 : " + linkedList.Contains("value 4"));
+        Console.WriteLine($"value 4 값 존재 여부 : {linkedList.Contains("value 4")}");
     }
 }
 ```
@@ -78,4 +78,4 @@ class Program
 <br> 
 출력결과
 <br>
-<img src="https://velog.velcdn.com/images/dbsdbds4532/post/753c5da3-753d-4491-b939-07cb1a2abded/image.png" align="left">
+<img src="https://velog.velcdn.com/images/dbsdbds4532/post/753c5da3-753d-4491-b939-07cb1a2abded/image.png">

@@ -64,4 +64,4 @@ class Program
 <br>
 출력 결과
 <br>
-<img src="https://velog.velcdn.com/images/dbsdbds4532/post/a584fc36-12ee-4b03-8bd8-3b6ed979bef9/image.png" width="300px" align="left">
+<img src=https://velog.velcdn.com/images/dbsdbds4532/post/a584fc36-12ee-4b03-8bd8-3b6ed979bef9/image.png>
